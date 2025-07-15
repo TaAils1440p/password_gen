@@ -21,7 +21,7 @@ Supports optional inclusion of numbers and special characters.
 Clone the repository and build the project:
 
 ```bash
-git clone https://github.com/your-username/password_gen.git
+git clone https://github.com/TaAils1440p/password_gen.git
 cd password_gen
 cargo build --release
 ```
