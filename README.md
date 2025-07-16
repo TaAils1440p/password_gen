@@ -45,11 +45,6 @@ cargo run -- --length 20 --numbers --symbols
 | `--numbers`, `-n` | Include numeric characters | false   |
 | `--symbols`, `-s` | Include special characters | false   |
 
-## 🧪 Running Tests
-```bash
-cargo test
-```
-
 ## 📁 Project Structure
 
 ```bash
